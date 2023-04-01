@@ -37,7 +37,7 @@
 
 // Q(1)
 
-1-echo nl2br("how to break line\nwithout using br");
+//1-echo nl2br("how to break line\nwithout using br");
 
 // 2-echo ("how to break line<pre>\n</pre>without using br");
 
