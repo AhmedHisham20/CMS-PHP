@@ -49,7 +49,7 @@
 // Q(2)
 // 1-echo htmlspecialchars_decode("") -->Converts some predefined HTML entities to characters
 // 2-echo bin2hex("") -->Converts a string characters to hexadecimal values
-// 3-echo chop($,"") -->Removes whitespace or other characters from the right end of a string
+// 3-echo chop($,"") -->Remove characters from the right end of a string
 
 
 // Q(3)
